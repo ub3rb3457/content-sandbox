@@ -7,6 +7,15 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview"
   },
+  "ntl": {
+    "runner": "yarn",
+    "descriptions": {
+      "build": "Builds the project",
+      "dev": "Starts the development server",
+      "generate": "static site generation",
+      "preview": "Starts the production server"
+    }
+  },
   "devDependencies": {
     "@nuxt/content": "^2.11.0",
     "nuxt": "^3.10.0"
